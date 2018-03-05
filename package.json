@@ -1,0 +1,25 @@
+{
+  "name": "Liri-Node-App",
+  "version": "1.0.0",
+  "description": "",
+  "main": "keys.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rich4millenium/Liri-Node-App.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rich4millenium/Liri-Node-App/issues"
+  },
+  "homepage": "https://github.com/rich4millenium/Liri-Node-App#readme",
+  "dependencies": {
+    "dotenv": "^5.0.1",
+    "node-spotify-api": "^1.0.7",
+    "twitter": "^1.7.1"
+  }
+}
